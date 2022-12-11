@@ -1,6 +1,4 @@
 
-# PROJECT::ZMASACRE
-
-***Yakında detaylar paylaşılacak.***
+# PROJECT:ZMASACRE
 
 # Discord:  ***https://discord.gg/wvFEuANKFY***
